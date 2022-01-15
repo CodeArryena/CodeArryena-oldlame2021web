@@ -1,3 +1,3 @@
 # Codearreyna
-Simple education related query website made by using html and css
+Simple education related query website 
 work in progress....
